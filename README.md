@@ -1,2 +1,2 @@
 # hello-world
-just another repo
+colectivo el junko
